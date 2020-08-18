@@ -647,7 +647,7 @@ body.single-scene #sceneListToggle {
 
 .info-hotspot-modal.visible {
   opacity: 1;
-  visibility: visible;
+  visibility: hidden;
   -webkit-transition: opacity 0.2s ease-in-out, visibility 0s 0s;
   transition: opacity 0.2s ease-in-out, visibility 0s 0s;
 }
